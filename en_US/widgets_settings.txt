@@ -1,0 +1,10 @@
+widgets_settings.queues_pause_reasons = Queues Pause Reasons
+widgets_settings.hide_unregister_extensions = Hide UnRegister Extensions
+widgets_settings.hide_unregister_extensions.title = If shows or not extensions with all its device unregistered.
+widgets_settings.queues_calls_counter_columns = Queue Calls Counter Columns
+widgets_settings.context_menu_trigger = Contextual Menu Trigger
+widgets_settings.context_menu_trigger.title = Specifies what event on widgets elements triggers the context menu.
+widgets_settings.trigger.right = Right Click
+widgets_settings.trigger.left = Left Click
+widgets_settings.auto_sort  = Auto Sort
+widgets_settings.auto_sort.title = If checked, the counter items will be sorted according to the amount of queued calls in descending order

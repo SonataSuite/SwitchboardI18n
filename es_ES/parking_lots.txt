@@ -1,0 +1,1 @@
+parking_lots.legend = Seleccionar el Parking Lots

@@ -1,0 +1,5 @@
+login_header = Ingrese a su Cuenta
+login_sub_header = Por favor ingrese sus credenciales
+username = Usuario
+password = Contraseña
+login_btn = Ingresar

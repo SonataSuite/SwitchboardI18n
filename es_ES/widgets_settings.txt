@@ -1,0 +1,10 @@
+widgets_settings.queues_pause_reasons = Motivos de Pausa en Las Colas
+widgets_settings.hide_unregister_extensions = Ocultar extensiones sin registrar
+widgets_settings.hide_unregister_extensions.title = Si muestra o no extensiones con todo su dispositivo no registrado.
+widgets_settings.queues_calls_counter_columns = Columnas de Contador de Llamadas en Cola
+widgets_settings.context_menu_trigger = Disparador del Menu Contextual
+widgets_settings.context_menu_trigger.title = Define el boton del mouse que se usara para mostrar los menus conextuales de los widgets
+widgets_settings.trigger.right = Derecho
+widgets_settings.trigger.left = Izquierdo
+widgets_settings.auto_sort  = Ordenar Automaticamente
+widgets_settings.auto_sort.title = Si está marcado, los elementos del contador se ordenarán descendentemente según la cantidad de llamadas en cola.

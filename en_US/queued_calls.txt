@@ -1,0 +1,10 @@
+widgets.queued_calls = Queued Calls
+queued_calls.select_a_queue = Queue
+queued_calls.widget.title = Queued Calls - :queue
+queued_calls.take_call = Take Call
+queued_calls.redirect_call = Redirect Call
+widgets.action.take_call = Take Call
+widgets.action.redirect_call = Transfer Call
+queued_calls.confirm_transfer = Confirm Transfer
+queued_calls.extension = Extension
+queued_calls.invalid_data_provided = You have provided invalid data.

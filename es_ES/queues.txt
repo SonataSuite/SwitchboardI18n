@@ -1,0 +1,6 @@
+queues.legend = Seleccione las Colas
+widget.action.unpause = Sin Pausa
+widget.action.pause_with_reason = Pausa con Motivo
+widget.action.pause_with_custom_reason = Personalizada
+widget.action.pause = Pausa
+pausetime = Tiempo de Pause

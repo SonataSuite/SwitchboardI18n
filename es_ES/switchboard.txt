@@ -1,0 +1,10 @@
+switchboard.extensions = Extensiones
+switchboard.extensions.subtitle = Todas Las Extensiones
+
+switchboard.queues = Colas
+switchboard.queues.subtitle = Todas Las Colas
+
+switchboard.conferences = Conferencias
+switchboard.conferences.subtitle = Todas Las Conferencias
+
+sw.action.hangup = Colgar

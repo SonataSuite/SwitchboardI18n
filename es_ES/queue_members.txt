@@ -1,0 +1,16 @@
+widgets.queue_members = Resumen de Miembros de la Cola
+queue_members.widget.title = Resumen de miembros de la cola - :queue
+queue_members.select_a_queue = Cola
+queue_members.member = Miembro
+queue_members.status = Estado
+queue_members.incall = En Llamada
+queue_members.callstaken = Llamadas Tomadas
+queue_members.lastcall = Última Llamada
+queue_members.pausedreason = Motivo de Pausa
+queue_members.unpause = Sin Pausa
+queue_members.pause = Pausa
+queue_members.pause_with_reason = Pausa con Motivo
+queue_members.logged_out = LogOut
+queue_members.logged_in = LogIn
+
+

@@ -1,0 +1,7 @@
+menu.switchboard = Switchboard
+menu.administration = Administración
+menu.users = Usuarios
+menu.roles = Roles
+menu.pbx = Conexión
+menu.layouts = Layouts
+menu.widgets_settings = Configuraciones

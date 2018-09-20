@@ -1,0 +1,10 @@
+quque_overview.queue = Cola
+queue_overview.widget.title = Información General de la Cola  - :queue
+queue_overview.select_a_queue = Seleccione una Cola
+queue_overview.waiting_calls = Llamadas en Cola
+queue_overview.completed_calls = Llamadas Completadas
+queue_overview.abandoned_calls = Llamadas Abandonadas
+queue_overview.sla_target = SLA Meta
+queue_overview.available_members = Miembros disponibles
+queue_overview.loggedin_members = Miembros Registrados
+queue_overview.longest_hold_time = Llamada en Espera Más Larga

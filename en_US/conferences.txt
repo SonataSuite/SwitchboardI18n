@@ -1,0 +1,2 @@
+conferences.legend = Select the Conference
+widgets.action.conf_mute_unmute = Mute/Un-Mute

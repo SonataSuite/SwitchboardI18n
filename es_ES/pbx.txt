@@ -1,0 +1,12 @@
+pbx.build_connection = Crear la Conexión
+pbx.ombutel = Ombutel
+pbx.free_pbx = FreePBX y Derivados
+pbx.description = Descripción *
+pbx.pbx_format = PBX
+pbx.db_pass = Contraseña de root de MySQL
+pbx.connected = Estado
+pbx.disconnected = Desconectado
+pbx.up = Conectado
+pbx.configuration = Configuración PBX
+pbx.connection_failed = No se puede conectar a la GUI de PBX
+pbx.connection_success = Conectado con éxito a la GUI de PBX

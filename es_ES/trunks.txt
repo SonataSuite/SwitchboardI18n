@@ -1,0 +1,2 @@
+trunks.legend = Seleccionar Troncales
+trunks.channel = Canal

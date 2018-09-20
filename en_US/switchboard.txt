@@ -1,0 +1,14 @@
+switchboard.extensions = Extensions
+switchboard.extensions.subtitle = All Extensions
+
+switchboard.queues = Queues
+switchboard.queues.subtitle = All Queues
+
+switchboard.conferences = Conferences
+switchboard.conferences.subtitle = All Conferences
+
+sw.action.hangup = Hangup
+
+switchboard.search = Search...
+
+select_a_queue = Select a Queue

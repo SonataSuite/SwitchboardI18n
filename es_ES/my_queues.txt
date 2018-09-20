@@ -1,0 +1,10 @@
+widgets.my_queues = Mis Colas
+my_queues.queue = Cola
+my_queues.status = Estado
+my_queues.calls_taken = Llamadas Tomadas
+my_queues.logged_in = LogIn
+my_queues.logged_out = LogOut
+my_queues.pause = Pausa
+my_queues.pause_with_reason = Pausa con la Motivo
+my_queues.unpause = Sin Pausa
+my_queues.queued_calls = Llamadas en Cola

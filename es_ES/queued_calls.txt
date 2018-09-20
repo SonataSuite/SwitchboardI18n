@@ -1,0 +1,10 @@
+widgets.queued_calls = Llamadas en Cola
+queued_calls.select_a_queue = Cola
+queued_calls.widget.title = Llamadas en Cola - :queue
+queued_calls.take_call = Tomar Llamada
+queued_calls.redirect_call = Redirigir Llamada
+widgets.action.take_call = Tomar Llamada
+widgets.action.redirect_call = Transferir Llamada
+queued_calls.confirm_transfer = Confirmar Transferencia
+queued_calls.extension = Extensión
+queued_calls.invalid_data_provided = Usted ha proporcionado datos inválidos.

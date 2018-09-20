@@ -1,0 +1,2 @@
+conferences.legend = Seleccione las Conferencia
+widgets.action.conf_mute_unmute = Silenciar/Activar
