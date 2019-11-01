@@ -1,0 +1,6 @@
+queues.legend = Sélectionner les files d'attente
+widget.action.unpause = Reprendre
+widget.action.pause_with_reason = Pause avec raison
+widget.action.pause_with_custom_reason = Personnalisé
+widget.action.pause = Pause
+pausetime = Partir en pause

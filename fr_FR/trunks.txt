@@ -1,0 +1,2 @@
+trunks.legend = Lignes
+trunks.channel = Canal

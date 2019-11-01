@@ -1,0 +1,15 @@
+validation.required = est obligatoire.
+validation.alphanumeric = Doit contenir seulement les lettres a-z et/ou les chiffres 0-9.
+validation.alpha = Doit contenir seulement les lettres a-z.
+validation.alphanumeric.slug = Doit contenir seulement les lettres a-z, les chiffres 0-9, tiret et underscore.
+validation.equals = Doit être le même que :field.
+validation.integer = Doit être un entier (0-9).
+validation.email = N'est pas une adresse email valide.
+validation.rule_not_found = La règle :rule n'existe pas.
+validation.errors_found = Erreurs dans le formulaire
+validation.ipv4_or_hostname = Doit être une IPv4 valide ou un nom d'hôte
+validation.port_number = Doit être un port valide, compris entre 0 et 65535
+validation.min_length = Doit contenir au moins :length caractères
+validation.max_length = Ne doit pas excéder :length caractères
+validation.phone = Doit être un numéro de téléphone valide, peut contenir *,#,+ au début.
+validation.numeric = Doit être numérique

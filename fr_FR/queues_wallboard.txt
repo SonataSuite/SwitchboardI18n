@@ -1,0 +1,11 @@
+widgets.queues_wallboard = Tableau de bord des files d'attente
+queues_wallboard.logged_in = Connectés
+queues_wallboard.available = Disponibles
+queues_wallboard.longest_hold = Temps d'attente max
+queues_wallboard.waiting = Appelants en attente
+queues_wallboard.completed_calls = Complétés
+queues_wallboard.abandoned_calls = Abandonnés
+queues_wallboard.sla = SLA
+queues_wallboard.calls_waiting = Appels en attente
+queues_wallboard.members = Membres
+queues_wallboard.stats = Stats

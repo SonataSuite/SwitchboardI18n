@@ -1,0 +1,10 @@
+widgets.my_queues = Mes files d'attentes
+my_queues.queue = File d'attente
+my_queues.status = Statut
+my_queues.calls_taken = Appels pris
+my_queues.logged_in = Connexion
+my_queues.logged_out = Déconnexion
+my_queues.pause = Pause
+my_queues.pause_with_reason = Pause avec raison
+my_queues.unpause = Reprise
+my_queues.queued_calls = Appels en attente

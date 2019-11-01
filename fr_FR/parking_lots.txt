@@ -1,0 +1,1 @@
+parking_lots.legend = Sélectionner les emplacements de parquage

@@ -1,0 +1,9 @@
+switchboard.extensions = Extensions
+switchboard.extensions.subtitle = Toutes les extensions
+switchboard.queues = File d'attente
+switchboard.queues.subtitle = Toutes les files d'attente
+switchboard.conferences = Conférences
+switchboard.conferences.subtitle = Toutes les conférences
+sw.action.hangup = Raccrocher
+switchboard.search = Chercher...
+select_a_queue = Choisir une file d'attente

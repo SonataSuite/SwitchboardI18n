@@ -1,0 +1,10 @@
+quque_overview.queue = File d'attente
+queue_overview.widget.title = Vue d'ensemble de la file d'attente - :queue
+queue_overview.select_a_queue = Sélectionner une file d'attente
+queue_overview.waiting_calls = Appels en attente
+queue_overview.completed_calls = Appels complétés
+queue_overview.abandoned_calls = Appels abandonnés
+queue_overview.sla_target = Cible SLA
+queue_overview.available_members = Membres disponibles
+queue_overview.loggedin_members = Membres connectés
+queue_overview.longest_hold_time = Temps d'attente maxi

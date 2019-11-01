@@ -1,0 +1,11 @@
+ssh2.not_supported = Le pilote SSH2 n'est pas supporté par votre système.
+ssh2.could_not_connect = N'a pas pu se connecter à l'hôte :host sur le port :port.
+ssh2.could_not_authenticate = Impossible de s'authentifier avec l'utilisateur :username sur l'hôte :host
+ssh2.could_not_set_blocking = Impossible de définir le mode de blocage sur le streaming de commande.
+sftp.could_not_init = Impossible d'initialiser la connexion ssh2Sftp.
+sftp.could_not_open_local_file = Impossible d'ouvrir le fichier local lors d'une tentative de d'envoi via ssh2Sftp.
+sftp.could_not_open_remote_file = Impossible d'ouvrir le fichier distant lors d'une tentative d'envoi via ssh2Sftp.
+sftp.could_not_open_local_file = Impossible d'ouvrir le fichier local lors d'une tentative de téléchargement via ssh2Sftp.
+sftp.could_not_open_remote_file = Impossible d'ouvrir le fichier distant lors d'une tentative de téléchargement via ssh2Sftp.
+sftp.could_not_delete_file = Impossible de supprimer le fichier distant: :file.
+sftp.could_not_delete_folder = Impossible de supprimer le dossier distant: :folder.

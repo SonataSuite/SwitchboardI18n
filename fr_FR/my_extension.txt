@@ -1,0 +1,13 @@
+my_extension.transfer = Transférer
+my_extension.hold = En attente
+my_extension.hangup = Raccrocher
+my_extension.park = Parquer
+my_extension.keyboard = Clavier
+my_extension.history = Historique
+my_extension.no_available_calls = Aucun appel disponible
+my_extension.supervisor = Superviseur
+my_extension.join_mode = Rejoindre le mode
+my_extension.request_supervisor = Demander l'aide du superviseur
+my_extension.barge = Conférence
+my_extension.whisper = Chuchoter
+my_extension.request = Demander

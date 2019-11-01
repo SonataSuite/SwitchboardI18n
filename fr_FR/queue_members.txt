@@ -1,0 +1,16 @@
+widgets.queue_members = Résumé des files d'attente des membres
+queue_members.widget.title = File d'attente des membres - :queue
+queue_members.select_a_queue = File d'attente
+queue_members.member = Membre
+queue_members.status = Statut
+queue_members.incall = En appel
+queue_members.callstaken = Appels pris
+queue_members.lastcall = Dernier appel
+queue_members.pausedreason = Raison de la pause
+queue_members.unpause = Reprise
+queue_members.pause = Pause
+queue_members.pause_with_reason = Pause avec raison
+queue_members.logged_out = Déconnexion
+queue_members.logged_in = Connexion
+
+

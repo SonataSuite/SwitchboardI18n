@@ -1,0 +1,7 @@
+menu.switchboard = Console
+menu.administration = Administration
+menu.users = Utilisateurs
+menu.roles = Rôles
+menu.pbx = Connexion
+menu.layouts = Dispositions
+menu.widgets_settings = Paramètres

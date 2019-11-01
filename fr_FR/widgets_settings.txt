@@ -1,0 +1,10 @@
+widgets_settings.queues_pause_reasons = Motif de la pause
+widgets_settings.hide_unregister_extensions = Cacher / désinscrire les extensions
+widgets_settings.hide_unregister_extensions.title = Montrer ou pas les extensions avec tous ses périphériques non enregistrés.
+widgets_settings.queues_calls_counter_columns = Colonne des compteurs d'appels en file d'attente
+widgets_settings.context_menu_trigger = Déclencheur de menu contextuel
+widgets_settings.context_menu_trigger.title = Spécifie quel événement sur les éléments des widgets déclenche le menu contextuel.
+widgets_settings.trigger.right = Clic droit
+widgets_settings.trigger.left = Clic gauche
+widgets_settings.auto_sort  = Tri auto
+widgets_settings.auto_sort.title = Si coché, les compteurs seront triés en fonction du nombre d'appels en file d'attente par ordre décroissant.

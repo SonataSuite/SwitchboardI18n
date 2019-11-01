@@ -1,0 +1,10 @@
+widgets.queued_calls = Appels en file d'attente
+queued_calls.select_a_queue = File d'attente
+queued_calls.widget.title = Appels en file d'attente - :queue
+queued_calls.take_call = Prendre l'appel
+queued_calls.redirect_call = Rediriger l'appel
+widgets.action.take_call = Prendre l'appel
+widgets.action.redirect_call = Transférer l'appel
+queued_calls.confirm_transfer = Confirmer le transfert
+queued_calls.extension = Extension
+queued_calls.invalid_data_provided = Vous avez fourni des données invalides.

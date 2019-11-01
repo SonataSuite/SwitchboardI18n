@@ -1,0 +1,2 @@
+conferences.legend = Sélectionnez la conférence
+widgets.action.conf_mute_unmute = Muet activé / Muet désactivé
