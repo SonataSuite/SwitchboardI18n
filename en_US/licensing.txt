@@ -19,3 +19,4 @@ licensing.license_migration = License Migration
 licensing.license_migration.msg = Are you sure that you want migrate this license for use it in another server?
 licensing.license_migration.success = Your license is ready to be moved to another server.
 menu.licensing = Licensing
+licensing.by_server = Licensed by Server

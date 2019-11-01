@@ -20,3 +20,5 @@ extensions.send_message_invalid_devices = This extension has no valid devices
 widgets.action.pickup_call = Pickup Call
 widgets.action.bxfer = Blind Transfer
 widgets.action.axfer = Attended Transfer
+extensions.transfer_call = Transfer Call
+extensions.type = Type

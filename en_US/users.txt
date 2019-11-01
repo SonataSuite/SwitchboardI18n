@@ -22,3 +22,5 @@ users.queues_sound_notification = Queues Sound Notification
 users.queues_sound_notification.title = If is checked, a sound notification is played when a new caller join to any queue visible in your switchboard.
 users.supervisor = Supervisor's Extension
 users.supervisor.title = The users with a supervisor assigned will be able to request help to its supervisor from the "My Extension" widget.
+users.tenant = Tenant
+users.tenant.title = Allows you to define to which tenant belongs to this user. When this user logged into to the platform, it will be able to only see info for the tenant assigned
