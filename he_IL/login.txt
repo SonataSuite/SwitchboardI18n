@@ -1,0 +1,5 @@
+login_header = התחבר לחשבון שלך
+login_sub_header = הזן את פרטי הכניסה שלך
+username = שם משתמש
+password = סיסמה
+login_btn = היכנס

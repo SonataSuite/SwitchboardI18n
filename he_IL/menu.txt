@@ -1,0 +1,7 @@
+menu.switchboard = לוח בקרה
+menu.administration = ניהול
+menu.users = משתמשים
+menu.roles = תפקיד
+menu.pbx = חיבור
+menu.layouts = פריסה
+menu.widgets_settings = הגדרות

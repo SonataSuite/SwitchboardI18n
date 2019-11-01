@@ -1,0 +1,2 @@
+conferences.legend = בחר את הועידה
+widgets.action.conf_mute_unmute = השתק/ביטול השתק

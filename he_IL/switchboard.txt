@@ -1,0 +1,14 @@
+switchboard.extensions = שלוחות
+switchboard.extensions.subtitle = כל השלוחות
+
+switchboard.queues = תורים
+switchboard.queues.subtitle = כל התורים
+
+switchboard.conferences = ועידה
+switchboard.conferences.subtitle = כל הועידות
+
+sw.action.hangup = נתק
+
+switchboard.search = חיפוש...
+
+select_a_queue = בחר תור

@@ -1,0 +1,10 @@
+widgets.my_queues = התורים שלי
+my_queues.queue = תור
+my_queues.status = סטטוס
+my_queues.calls_taken = שיחה נלקחה
+my_queues.logged_in = הכנס
+my_queues.logged_out = צא
+my_queues.pause = הפסקה
+my_queues.pause_with_reason = הפסקה עם סיבה
+my_queues.unpause = חזרה מהפסקה
+my_queues.queued_calls = שיחות ממתינות

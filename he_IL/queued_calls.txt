@@ -1,0 +1,10 @@
+widgets.queued_calls = שיחות בתור
+queued_calls.select_a_queue = תור
+queued_calls.widget.title = שיחות בתור - :תור
+queued_calls.take_call = שיחה נענתה
+queued_calls.redirect_call = הפניית שיחה 
+widgets.action.take_call = קח שיחה
+widgets.action.redirect_call = העברת שיחה
+queued_calls.confirm_transfer = אישור העברה
+queued_calls.extension = שלוחה
+queued_calls.invalid_data_provided = התאריך שבחרת שגוי

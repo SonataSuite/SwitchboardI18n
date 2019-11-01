@@ -1,0 +1,16 @@
+widgets.queue_members = סיכום נציגים בתור
+queue_members.widget.title = סיכום נציגים בתור - :תור
+queue_members.select_a_queue = תור
+queue_members.member = נציג
+queue_members.status = סטטוס
+queue_members.incall = בשיחה
+queue_members.callstaken = שיחות שנענו
+queue_members.lastcall = שיחה אחרונה
+queue_members.pausedreason = סיבת הפסקה
+queue_members.unpause = חזרה מהפסקה
+queue_members.pause = הפסקה
+queue_members.pause_with_reason = הפסקה עם שסיבה
+queue_members.logged_out = יציאה
+queue_members.logged_in = כניסה
+
+

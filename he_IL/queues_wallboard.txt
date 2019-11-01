@@ -1,0 +1,11 @@
+widgets.queues_wallboard = לוח תור
+queues_wallboard.logged_in = מחובר
+queues_wallboard.available = זמין
+queues_wallboard.longest_hold = מקסימום זמן לשיחה ממתינה
+queues_wallboard.waiting = ממתינים
+queues_wallboard.completed_calls = הושלם
+queues_wallboard.abandoned_calls = נטישה
+queues_wallboard.sla = רמת שירות
+queues_wallboard.calls_waiting = שיחות ממתינות
+queues_wallboard.members = נציגים
+queues_wallboard.stats = סטטיסטיקה

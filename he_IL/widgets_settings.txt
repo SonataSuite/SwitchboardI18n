@@ -1,0 +1,10 @@
+widgets_settings.queues_pause_reasons = סיבת הפסקת תורים
+widgets_settings.hide_unregister_extensions = הסתר שלוחות לא רשומות
+widgets_settings.hide_unregister_extensions.title = אם מראה או לא מראשה שלוחות עם מכשיר שלא רשום
+widgets_settings.queues_calls_counter_columns = Queue Calls Counter Columns
+widgets_settings.context_menu_trigger = Contextual Menu Trigger
+widgets_settings.context_menu_trigger.title = Specifies what event on widgets elements triggers the context menu.
+widgets_settings.trigger.right = קליק ימני
+widgets_settings.trigger.left = קליק שמאלי
+widgets_settings.auto_sort  = סידור אוטומטי
+widgets_settings.auto_sort.title = If checked, the counter items will be sorted according to the amount of queued calls in descending order

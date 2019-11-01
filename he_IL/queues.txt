@@ -1,0 +1,6 @@
+queues.legend = בחר את התורים
+widget.action.unpause = ביטול הפסקה
+widget.action.pause_with_reason = הפסקה עם סיבה
+widget.action.pause_with_custom_reason = התאמה אישית
+widget.action.pause = הפסקה
+pausetime = זמן הפסקה

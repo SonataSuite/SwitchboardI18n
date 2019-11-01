@@ -1,0 +1,11 @@
+ssh2.not_supported = SSH2 driver is not supporter by your system.
+ssh2.could_not_connect = Could not connect to host :host on port :port.
+ssh2.could_not_authenticate = Could not authenticate to user :username on host :host
+ssh2.could_not_set_blocking = Could not set blocking mode on command streaming.
+sftp.could_not_init = Could not initialize ssh2Sftp connection.
+sftp.could_not_open_local_file = Could not open local file while tried to upload via ssh2Sftp.
+sftp.could_not_open_remote_file = Could not open remote file while tried to upload via ssh2Sftp.
+sftp.could_not_open_local_file = Could not open local file while tried to download via ssh2Sftp.
+sftp.could_not_open_remote_file = Could not open remote file while tried to download via ssh2Sftp.
+sftp.could_not_delete_file = Could not remove remote file: :file.
+sftp.could_not_delete_folder = Could not remove remote folder: :folder.

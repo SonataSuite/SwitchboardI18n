@@ -1,0 +1,15 @@
+validation.required = נדרש.
+validation.alphanumeric = חייב להכיל אותיות באנגלית ו/או מספרים
+validation.alpha = חייב לכלול רק אותיות באנגלית
+validation.alphanumeric.slug = חייב להכיל רק אותיות באנגלית, מספרים, מקפים, וקווים תחתוניים
+validation.equals = חייב להיות כמו :שדה.
+validation.integer = חייב להיות מספר שלם (0-9).
+validation.email = היא אינה כתובת דוא"ל חוקית.
+validation.rule_not_found = החוק :החוק לא קיים.
+validation.errors_found = שגיאות בטופס
+validation.ipv4_or_hostname = חייב להיות כתובת איי פי חוקית או שם מארח
+validation.port_number = Must be a valid port number, between the range of 0 and 65535
+validation.min_length = Must be at least :length characters long
+validation.max_length = Must not exceed :length characters
+validation.phone = Must be a valid phone number, may contain *,#,+ at the begin.
+validation.numeric = Must be numeric

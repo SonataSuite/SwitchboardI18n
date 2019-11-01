@@ -1,0 +1,13 @@
+my_extension.transfer = העבר
+my_extension.hold = החזק
+my_extension.hangup = נתק
+my_extension.park = חניה
+my_extension.keyboard = מקלדת
+my_extension.history = היסטוריה
+my_extension.no_available_calls = אין שיחות זמינות
+my_extension.supervisor = מפקח
+my_extension.join_mode = הצטרף למצב
+my_extension.request_supervisor = בקשה לסיוע של מפקח
+my_extension.barge = ועידה
+my_extension.whisper = לחישה
+my_extension.request = בקשה
