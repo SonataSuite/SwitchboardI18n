@@ -1,0 +1,3 @@
+files:
+  - source: /en_US/*.*
+    translation: /%two_letters_code%_CZ/%original_file_name%
