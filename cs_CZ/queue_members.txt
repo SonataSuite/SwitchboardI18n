@@ -1,0 +1,16 @@
+widgets.queue_members = Queue Members Summary
+queue_members.widget.title = Queue Members Summary - :queue
+queue_members.select_a_queue = Queue
+queue_members.member = Member
+queue_members.status = Status
+queue_members.incall = InCall
+queue_members.callstaken = Calls Taken
+queue_members.lastcall = Last Call
+queue_members.pausedreason = Paused Reason
+queue_members.unpause = UnPause
+queue_members.pause = Pause
+queue_members.pause_with_reason = Pause With Reason
+queue_members.logged_out = LogOut
+queue_members.logged_in = LogIn
+
+

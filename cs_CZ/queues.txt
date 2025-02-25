@@ -1,0 +1,6 @@
+queues.legend = Select the Queues
+widget.action.unpause = UnPause
+widget.action.pause_with_reason = Pause With Reason
+widget.action.pause_with_custom_reason = Custom
+widget.action.pause = Pause
+pausetime = Pause Time

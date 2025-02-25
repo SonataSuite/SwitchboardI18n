@@ -1,0 +1,10 @@
+widgets.my_queues = My Queues
+my_queues.queue = Queue
+my_queues.status = Status
+my_queues.calls_taken = Calls Taken
+my_queues.logged_in = LogIn
+my_queues.logged_out = LogOut
+my_queues.pause = Pause
+my_queues.pause_with_reason = Pause With Reason
+my_queues.unpause = UnPause
+my_queues.queued_calls = Queued Calls

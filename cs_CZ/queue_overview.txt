@@ -1,0 +1,10 @@
+quque_overview.queue = Queue
+queue_overview.widget.title = Queue Overview - :queue
+queue_overview.select_a_queue = Select a Queue
+queue_overview.waiting_calls = Waiting Calls
+queue_overview.completed_calls = Completed Calls
+queue_overview.abandoned_calls = Abandoned Calls
+queue_overview.sla_target = SLA Target
+queue_overview.available_members = Available Members
+queue_overview.loggedin_members = Loggedin Members
+queue_overview.longest_hold_time = Longest Hold Call
