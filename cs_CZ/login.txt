@@ -1,5 +1,5 @@
-login_header = Login to your account
-login_sub_header = Please introduce your credentials
-username = Username
-password = Password
-login_btn = Sign In
+login_header = Přihlaste se ke svému účtu
+login_sub_header = Prosím, zadejte své údaje
+username = Uživatelské jméno
+password = Heslo
+login_btn = Přihlásit se

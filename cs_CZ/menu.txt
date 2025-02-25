@@ -1,7 +1,7 @@
-menu.switchboard = Switchboard
-menu.administration = Administration
-menu.users = Users
-menu.roles = Roles
-menu.pbx = Connection
-menu.layouts = Layouts
-menu.widgets_settings = Settings
+menu.switchboard = Panel
+menu.administration = Administrace
+menu.users = Uživatelé
+menu.roles = Role
+menu.pbx = Připojení
+menu.layouts = Rozvržení
+menu.widgets_settings = Nastavení

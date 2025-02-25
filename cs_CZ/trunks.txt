@@ -1,2 +1,2 @@
-trunks.legend = Select Trunks
-trunks.channel = Channel
+trunks.legend = Vyberte přenašeče
+trunks.channel = kanál
