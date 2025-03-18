@@ -39,3 +39,6 @@ widgets.action.send_message = Send Message
 widgets_settings.console_mode = Console Mode
 widgets_settings.console_mode.title = Show extensions in a compact space.
 widgets.trunks = Trunks
+widgets.html_embed = HTML Embed
+widgets.enter_url = URL
+widgets.external_app = External APP
