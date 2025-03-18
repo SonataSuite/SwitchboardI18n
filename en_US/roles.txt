@@ -44,3 +44,5 @@ roles.default_layout = Default Layout
 roles.default_layout.title = If checked, the users withs this role assigned will be able to access to the default layout
 roles.allow_layouts_creation = Layouts Creation
 roles.allow_layouts_creation.title = If checked, the users withs this role assigned will be able to create its own layouts
+roles.agent_mode = Agent Mode
+roles.agent_mode.title = If checked, the users with this role won't be able to execute any actions on the widgets except on their own extension.
