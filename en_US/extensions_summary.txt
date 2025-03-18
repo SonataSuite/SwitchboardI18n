@@ -1,0 +1,16 @@
+widgets.extensions_summary = Extensions Summary
+extensions_summary.title = Extensions Summary
+extensions_summary.extension = Extension
+extensions_summary.registration_status = Reg. Status
+extensions_summary.dnd_status = DND
+extensions_summary.in_call = In Call
+extensions_summary.local_calls = N. Local Calls
+extensions_summary.outbound_calls = N. Out Calls
+extensions_summary.incoming_calls = N. In Calls
+extensions_summary.total_calls = Total Calls
+extensions_summary.last_local_calls = Last Local Calls
+extensions_summary.last_out_calls = Last Out Calls
+extensions_summary.last_in_calls = Last In Calls
+extensions_summary.details = Details
+extensions_summary.queues_status = Q. Status
+extensions_summary.pause_reason = Pause Reason
