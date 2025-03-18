@@ -1,0 +1,13 @@
+my_extension.transfer = Přenos
+my_extension.hold = Držet
+my_extension.hangup = Zavěsit
+my_extension.park = Parkovat
+my_extension.keyboard = Klávesnice
+my_extension.history = Historie
+my_extension.no_available_calls = Žádné dostupné hovory
+my_extension.supervisor = Supervizor
+my_extension.join_mode = Režim připojení
+my_extension.request_supervisor = Požádat o pomoc supervizora
+my_extension.barge = Konference
+my_extension.whisper = Našeptávat
+my_extension.request = Požadavek

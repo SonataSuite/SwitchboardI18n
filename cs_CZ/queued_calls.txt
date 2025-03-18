@@ -1,0 +1,10 @@
+widgets.queued_calls = Hovory ve frontě
+queued_calls.select_a_queue = Fronta
+queued_calls.widget.title = Hovory ve frontě - :queue
+queued_calls.take_call = Přijmout hovor
+queued_calls.redirect_call = Přesměrovat hovor
+widgets.action.take_call = Přijmout hovor
+widgets.action.redirect_call = Přeposlat hovor
+queued_calls.confirm_transfer = Potvrdit přesměrování
+queued_calls.extension = Klapka
+queued_calls.invalid_data_provided = Poskytli jste neplatná data.

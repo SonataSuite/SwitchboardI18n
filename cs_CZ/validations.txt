@@ -1,0 +1,15 @@
+validation.required = Je vyžadováno.
+validation.alphanumeric = Musí obsahovat pouze písmena a-z a/nebo čísla 0-9.
+validation.alpha = Musí obsahovat pouze písmena a-z.
+validation.alphanumeric.slug = Musí obsahovat pouze písmena a-z, čísla 0-9, pomlčky a podtržítka.
+validation.equals = Musí být stejné jako :field.
+validation.integer = Musí být celé číslo (0-9).
+validation.email = Není platná e-mailová adresa.
+validation.rule_not_found = Pravidlo :rule neexistuje.
+validation.errors_found = Chyby ve formuláři
+validation.ipv4_or_hostname = Musí být platná IPv4 nebo název hostitele
+validation.port_number = Musí být platné číslo portu, v rozmezí od 0 do 65535
+validation.min_length = Musí mít alespoň :length znaků dlouhý
+validation.max_length = Nesmí přesáhnout :length znaků
+validation.phone = Musí být platné telefonní číslo, může obsahovat *,#,+ na začátku.
+validation.numeric = Musí být číslo

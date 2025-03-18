@@ -1,0 +1,6 @@
+queues.legend = Vyberte fronty
+widget.action.unpause = Zrušit pozastavení
+widget.action.pause_with_reason = Pozastavit s důvodem
+widget.action.pause_with_custom_reason = Vlastní
+widget.action.pause = Pozastavit
+pausetime = Doba pauzy

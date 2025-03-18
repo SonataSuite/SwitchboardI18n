@@ -1,0 +1,5 @@
+login_header = Přihlaste se ke svému účtu
+login_sub_header = Prosím, zadejte své údaje
+username = Uživatelské jméno
+password = Heslo
+login_btn = Přihlásit se

@@ -1,0 +1,10 @@
+quque_overview.queue = Fronta
+queue_overview.widget.title = Přehled front - :queue
+queue_overview.select_a_queue = Vyberte frontu
+queue_overview.waiting_calls = Čekající hovory
+queue_overview.completed_calls = Dokončené hovory
+queue_overview.abandoned_calls = Opustené hovory
+queue_overview.sla_target = Cíl SLA
+queue_overview.available_members = Dostupní členové
+queue_overview.loggedin_members = Přihlášení členové
+queue_overview.longest_hold_time = Nejdelší přidržený hovor

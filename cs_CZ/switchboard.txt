@@ -1,0 +1,14 @@
+switchboard.extensions = Rozšíření
+switchboard.extensions.subtitle = Všechny pobočky
+
+switchboard.queues = Fronty
+switchboard.queues.subtitle = Všechny fronty
+
+switchboard.conferences = Konference
+switchboard.conferences.subtitle = Všechny konference
+
+sw.action.hangup = Zavěsit
+
+switchboard.search = Hledat...
+
+select_a_queue = Vyberte frontu

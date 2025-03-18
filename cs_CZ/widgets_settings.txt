@@ -1,0 +1,10 @@
+widgets_settings.queues_pause_reasons = Důvody pozastavení front
+widgets_settings.hide_unregister_extensions = Skrýt neodregistrované rozšíření
+widgets_settings.hide_unregister_extensions.title = Zda se zobrazují nebo neskrývají rozšíření se všemi svými zařízeními neodregistrovanými.
+widgets_settings.queues_calls_counter_columns = Sloupce počítadla hovorů fronty
+widgets_settings.context_menu_trigger = Spouštěč kontextového menu
+widgets_settings.context_menu_trigger.title = Určuje, která událost na prvcích widgetů spustí kontextové menu.
+widgets_settings.trigger.right = Pravé kliknutí
+widgets_settings.trigger.left = Levé kliknutí
+widgets_settings.auto_sort = Automatické třídění
+widgets_settings.auto_sort.title = Pokud je zaškrtnuto, položky čítače budou seřazeny podle počtu frontových hovorů v sestupném pořadí.

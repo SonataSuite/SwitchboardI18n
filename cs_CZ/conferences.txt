@@ -1,0 +1,2 @@
+conferences.legend = Vyberte konferenci
+widgets.action.conf_mute_unmute = Umlčet/odmlčet

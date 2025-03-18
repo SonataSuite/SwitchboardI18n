@@ -1,0 +1,10 @@
+widgets.my_queues = Moje fronty
+my_queues.queue = Fronta
+my_queues.status = Stav
+my_queues.calls_taken = Přijaté hovory
+my_queues.logged_in = Přihlásit se
+my_queues.logged_out = Odhlásit se
+my_queues.pause = Pozastavit
+my_queues.pause_with_reason = Pozastavit s důvodem
+my_queues.unpause = Obnovit
+my_queues.queued_calls = Hovory ve frontě

@@ -1,0 +1,11 @@
+ssh2.not_supported = SSH2 ovladač není vaším systémem podporován.
+ssh2.could_not_connect = Nelze se připojit k hostiteli :host na portu :port.
+ssh2.could_not_authenticate = Nelze ověřit uživatele :username na hostiteli :host.
+ssh2.could_not_set_blocking = Nelze nastavit blokovací mód při streamování příkazů.
+sftp.could_not_init = Nelze inicializovat připojení ssh2Sftp.
+sftp.could_not_open_local_file = Nelze otevřít místní soubor při pokusu o nahrání přes ssh2Sftp.
+sftp.could_not_open_remote_file = Nelze otevřít vzdálený soubor při pokusu o nahrání přes ssh2Sftp.
+sftp.could_not_open_local_file = Nelze otevřít místní soubor při pokusu o stažení přes ssh2Sftp.
+sftp.could_not_open_remote_file = Nelze otevřít vzdálený soubor při pokusu o stažení přes ssh2Sftp.
+sftp.could_not_delete_file = Nelze odstranit vzdálený soubor: :file.
+sftp.could_not_delete_folder = Nelze odstranit vzdálenou složku: :folder.

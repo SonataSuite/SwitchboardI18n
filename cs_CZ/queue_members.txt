@@ -1,0 +1,16 @@
+widgets.queue_members = Přehled členů fronty
+queue_members.widget.title = Přehled členů fronty - :queue
+queue_members.select_a_queue = Fronta
+queue_members.member = Člen
+queue_members.status = Stav
+queue_members.incall = V hovoru
+queue_members.callstaken = Přijaté hovory
+queue_members.lastcall = Poslední hovor
+queue_members.pausedreason = Důvod pauzy
+queue_members.unpause = Konec pauzy
+queue_members.pause = Pauza
+queue_members.pause_with_reason = Pauza s důvodem
+queue_members.logged_out = Odhlášení
+queue_members.logged_in = Přihlášení
+
+
