@@ -12,5 +12,6 @@ queue_members.pause = Pause
 queue_members.pause_with_reason = Pause With Reason
 queue_members.logged_out = LogOut
 queue_members.logged_in = LogIn
+queue_members.last-login = Last Login
 
 
