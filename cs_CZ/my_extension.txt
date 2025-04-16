@@ -1,5 +1,5 @@
-my_extension.transfer = Přenos
-my_extension.hold = Držet
+my_extension.transfer = Přepojení
+my_extension.hold = Přidržet
 my_extension.hangup = Zavěsit
 my_extension.park = Parkovat
 my_extension.keyboard = Klávesnice
