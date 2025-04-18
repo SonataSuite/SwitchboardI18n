@@ -1,4 +1,4 @@
-switchboard.extensions = Rozšíření
+switchboard.extensions = Pobočky
 switchboard.extensions.subtitle = Všechny pobočky
 
 switchboard.queues = Fronty

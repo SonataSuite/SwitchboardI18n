@@ -6,5 +6,5 @@ queued_calls.redirect_call = Přesměrovat hovor
 widgets.action.take_call = Přijmout hovor
 widgets.action.redirect_call = Přeposlat hovor
 queued_calls.confirm_transfer = Potvrdit přesměrování
-queued_calls.extension = Klapka
+queued_calls.extension = Pobočka
 queued_calls.invalid_data_provided = Poskytli jste neplatná data.
